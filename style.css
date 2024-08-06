@@ -41,11 +41,11 @@ main{
     margin: auto;
     box-shadow: 0px 0px 10px black;
     
-    padding-top: 3px;
-    padding-bottom: 30px;
+    
 }
 
 main img{
-    margin-left: 20px;
+    margin: auto;
+    display: block;
     
 }
