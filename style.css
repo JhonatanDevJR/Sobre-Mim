@@ -11,7 +11,7 @@ body p{
     padding: 3px;
     border-radius: 5px;
     display: block;
-    min-width: 400px;
+    min-width: 340px;
     max-width: 1200px;
     padding-right: 5px;
     
@@ -35,7 +35,7 @@ main{
     background-color: rgb(61, 141, 187);
     width: auto;
     height: auto;
-    min-width: 400px;
+    min-width: 360px;
     max-width: 380px;
     border-radius: 20px;
     margin: auto;
@@ -47,5 +47,5 @@ main{
 
 main img{
     margin-left: 20px;
-    margin-right: 20px;
+    
 }
